@@ -7,7 +7,7 @@ about:
   head: ad3e692
   archived: false
   latestVersion: v0.8.2
-  collectedAt: 2026-09-04T20:00:40Z
+  collectedAt: 2026-09-04T20:42:30Z
 timeline:
   created: 2025-09-25
   lastCommit: 2026-08-08
@@ -84,5 +84,68 @@ total:
   openIssue: 14
   commit: 1400
 ---
+path: /home/runner/.x-repo/github.com/Firstp1ck/Pacsea
+collectedAt: 2026-09-04T20:42:33Z
+loc:
+  Rust:
+    code: 116609
+    comments: 4842
+    blanks: 10970
+    files: 434
+  Yaml:
+    code: 3749
+    comments: 36
+    blanks: 36
+    files: 4
+  Sh:
+    code: 3594
+    comments: 497
+    blanks: 481
+    files: 12
+  Fish:
+    code: 1142
+    comments: 159
+    blanks: 231
+    files: 1
+  Python:
+    code: 378
+    comments: 53
+    blanks: 75
+    files: 2
+  Bitbake:
+    code: 267
+    comments: 388
+    blanks: 57
+    files: 4
+  Toml:
+    code: 128
+    comments: 18
+    blanks: 16
+    files: 4
+  Makefile:
+    code: 113
+    comments: 18
+    blanks: 40
+    files: 2
+  Svg:
+    code: 42
+    comments: 0
+    blanks: 5
+    files: 1
+  Json:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3416
+    blanks: 1215
+    files: 30
+total:
+  code: 126201
+  comments: 41574
+  blanks: 23354
+  files: 495
 ---
 
