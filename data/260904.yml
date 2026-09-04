@@ -1,11 +1,13 @@
 about:
-  description: Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
+  description:
+  |
+    Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
   license: MIT
   homepage: https://firstp1ck.github.io/Pacsea/
   head: ad3e692
   archived: false
   latestVersion: v0.8.2
-  collectedAt: 2026-09-04T05:04:01Z
+  collectedAt: 2026-09-04T20:00:40Z
 timeline:
   created: 2025-09-25
   lastCommit: 2026-08-08
@@ -16,7 +18,7 @@ popularity:
   fork: 10
   release: 24
   contributor: 8
-  pullRequest: 1
+  pullRequest: 91
   issue: 52
 language:
   Rust: 6100483
@@ -24,7 +26,7 @@ language:
   Python: 16751
   Mermaid: 10749
   Makefile: 7302
-totalLine: 6352632
+totalBytes: 6352632
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 5
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 8
   last90d:
     since: 2026-06-06
     release: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 38
     openIssue: 14
     commit: 1279
+  last720d:
+    since: 2024-09-14
+    release: 24
+    mergedPR: 90
+    openPR: 0
+    closedIssue: 38
+    openIssue: 14
+    commit: 1400
+total:
+  release: 24
+  mergedPR: 90
+  openPR: 0
+  closedIssue: 38
+  openIssue: 14
+  commit: 1400
+---
+---
+
