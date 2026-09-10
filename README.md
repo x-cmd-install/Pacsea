@@ -12,6 +12,18 @@ Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
 x install Pacsea
 ```
 
+## Code insight
+
+Total: **126,030** lines of code across **453** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 116,609 | 4,842 | 10,970 | 434 |
+| Yaml | 3,749 | 36 | 36 | 4 |
+| Sh | 3,594 | 497 | 481 | 12 |
+| Fish | 1,142 | 159 | 231 | 1 |
+| Python | 378 | 53 | 75 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Firstp1ck/Pacsea>
@@ -36,20 +48,11 @@ x install Pacsea
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 1 | 0 | 6 |
 | 90d | 2026-06-12 | 0 | 3 | 0 | 1 | 0 | 17 |
+| last180d | 2026-03-14 | 4 | 24 | 0 | 10 | 7 | 253 |
 | 360d | 2025-09-15 | 24 | 90 | 0 | 38 | 14 | 1279 |
-
-## Code size
-
-Total: **126,030** lines of code across **453** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 116,609 | 4,842 | 10,970 | 434 |
-| Yaml | 3,749 | 36 | 36 | 4 |
-| Sh | 3,594 | 497 | 481 | 12 |
-| Fish | 1,142 | 159 | 231 | 1 |
-| Python | 378 | 53 | 75 | 2 |
+| last720d | 2024-09-20 | 24 | 90 | 0 | 38 | 14 | 1400 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for Pacsea lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:29:49Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:43:35Z._
