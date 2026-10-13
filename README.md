@@ -37,7 +37,7 @@ Total: **126,030** lines of code across **453** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 298 · **Forks**: 11 · **Open issues**: 52 · **Contributors**: 8
+- **Stars**: 299 · **Forks**: 11 · **Open issues**: 52 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **126,030** lines of code across **453** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-14 | 0 | 1 | 0 | 1 | 0 | 6 |
-| last180d | 2026-04-15 | 1 | 6 | 0 | 2 | 1 | 31 |
-| 360d | 2025-10-17 | 19 | 90 | 0 | 38 | 14 | 1177 |
-| last720d | 2024-10-22 | 24 | 90 | 0 | 38 | 14 | 1400 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-15 | 0 | 1 | 0 | 1 | 0 | 6 |
+| last180d | 2026-04-16 | 1 | 5 | 0 | 2 | 1 | 31 |
+| 360d | 2025-10-18 | 19 | 90 | 0 | 38 | 14 | 1177 |
+| last720d | 2024-10-23 | 24 | 90 | 0 | 38 | 14 | 1400 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Pacsea lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:21:08Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:15:53Z._
