@@ -41,18 +41,18 @@ Total: **126,030** lines of code across **453** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 90 · **Open PRs**: 2 · **Closed issues**: 38 · **Open issues**: 14 · **Commits**: 1400
+- **Releases**: 24 · **Merged PRs**: 91 · **Open PRs**: 1 · **Closed issues**: 38 · **Open issues**: 14 · **Commits**: 1400
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 1 | 2 | 0 | 0 | 5 |
-| last180d | 2026-04-21 | 0 | 5 | 2 | 1 | 0 | 23 |
-| 360d | 2025-10-23 | 19 | 90 | 2 | 36 | 14 | 1117 |
-| last720d | 2024-10-28 | 24 | 90 | 2 | 38 | 14 | 1400 |
+| 30d | 2026-09-19 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 0 | 1 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 0 | 2 | 1 | 0 | 0 | 5 |
+| last180d | 2026-04-22 | 0 | 6 | 1 | 1 | 0 | 23 |
+| 360d | 2025-10-24 | 18 | 90 | 1 | 36 | 14 | 1117 |
+| last720d | 2024-10-29 | 24 | 91 | 1 | 38 | 14 | 1400 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Pacsea lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:40:13Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:57:36Z._
