@@ -47,12 +47,12 @@ Total: **126,030** lines of code across **453** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-18 | 0 | 4 | 1 | 1 | 0 | 17 |
-| 360d | 2025-11-19 | 14 | 75 | 1 | 30 | 14 | 895 |
-| last720d | 2024-11-24 | 24 | 91 | 1 | 38 | 14 | 1400 |
+| 30d | 2026-10-16 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 1 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-17 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-19 | 0 | 4 | 1 | 1 | 0 | 17 |
+| 360d | 2025-11-20 | 14 | 75 | 1 | 30 | 14 | 652 |
+| last720d | 2024-11-25 | 24 | 91 | 1 | 38 | 14 | 1400 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Pacsea lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:27:34Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:20:21Z._
