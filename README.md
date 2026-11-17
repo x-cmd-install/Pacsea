@@ -14,11 +14,11 @@ x install Pacsea
 
 ## Code insight
 
-Total: **126,030** lines of code across **453** files in the top 5 languages.
+Total: **126,068** lines of code across **453** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 116,609 | 4,842 | 10,970 | 434 |
+| Rust | 116,648 | 4,843 | 10,976 | 434 |
 | Yaml | 3,749 | 36 | 36 | 4 |
 | Sh | 3,594 | 497 | 481 | 12 |
 | Fish | 1,142 | 159 | 231 | 1 |
@@ -33,26 +33,26 @@ Total: **126,030** lines of code across **453** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.2`
-- **Last commit**: 2026-08-08
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 306 · **Forks**: 12 · **Open issues**: 53 · **Contributors**: 8
+- **Stars**: 307 · **Forks**: 12 · **Open issues**: 53 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 91 · **Open PRs**: 2 · **Closed issues**: 38 · **Open issues**: 15 · **Commits**: 1400
+- **Releases**: 24 · **Merged PRs**: 95 · **Open PRs**: 1 · **Closed issues**: 39 · **Open issues**: 14 · **Commits**: 1410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 1 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 0 | 1 | 2 | 0 | 1 | 0 |
-| last180d | 2026-05-20 | 0 | 4 | 2 | 1 | 1 | 17 |
-| 360d | 2025-11-21 | 14 | 73 | 2 | 30 | 15 | 652 |
-| last720d | 2024-11-26 | 24 | 91 | 2 | 38 | 15 | 1400 |
+| 30d | 2026-10-18 | 0 | 4 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-18 | 0 | 5 | 1 | 1 | 0 | 6 |
+| 90d | 2026-08-19 | 0 | 5 | 1 | 1 | 0 | 6 |
+| last180d | 2026-05-21 | 0 | 8 | 1 | 2 | 0 | 23 |
+| 360d | 2025-11-22 | 13 | 75 | 1 | 29 | 14 | 658 |
+| last720d | 2024-11-27 | 24 | 95 | 1 | 39 | 14 | 1410 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Pacsea lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:51:49Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:45:46Z._
