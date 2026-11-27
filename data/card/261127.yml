@@ -1,0 +1,171 @@
+about:
+  description: "Fast TUI for searching, inspecting, and queueing pacman/AUR packages."
+  license: MIT
+  homepage: https://firstp1ck.github.io/Pacsea/
+  head: 86ee3ed
+  archived: false
+  latestVersion: "walkthroughs-1"
+  latestRelease: "walkthroughs-1"
+  latestPrerelease: "v0.8.2"
+  collectedAt: 2026-11-27T10:37:22Z
+timeline:
+  created: 2025-09-25
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-04-17
+popularity:
+  star: 308
+  watcher: 4
+  fork: 12
+  release: 25
+  contributor: 9
+  pullRequest: 97
+  issue: 53
+language:
+  Rust: 6105271
+  HTML: 524699
+  Shell: 217347
+  Python: 67773
+  JavaScript: 25024
+  Mermaid: 10749
+  Makefile: 7302
+totalBytes: 6958165
+recent:
+  last30d:
+    since: 2026-10-28
+    release: 1
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 8
+  last60d:
+    since: 2026-09-28
+    release: 1
+    mergedPR: 5
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 8
+  last90d:
+    since: 2026-08-29
+    release: 1
+    mergedPR: 5
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 8
+  last180d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 8
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 25
+  last360d:
+    since: 2025-12-02
+    release: 12
+    mergedPR: 52
+    openPR: 1
+    closedIssue: 24
+    openIssue: 14
+    commit: 540
+  last720d:
+    since: 2024-12-07
+    release: 25
+    mergedPR: 95
+    openPR: 1
+    closedIssue: 39
+    openIssue: 14
+    commit: 1412
+total:
+  release: 25
+  mergedPR: 95
+  openPR: 1
+  closedIssue: 39
+  openIssue: 14
+  commit: 1412
+---
+path: /home/runner/.x-repo/github.com/Firstp1ck/Pacsea
+collectedAt: 2026-11-27T10:37:30Z
+loc:
+  Rust:
+    code: 116648
+    comments: 4843
+    blanks: 10976
+    files: 434
+  Svg:
+    code: 42180
+    comments: 88
+    blanks: 48
+    files: 163
+  Json:
+    code: 17098
+    comments: 0
+    blanks: 0
+    files: 10
+  Yaml:
+    code: 3749
+    comments: 36
+    blanks: 36
+    files: 4
+  Sh:
+    code: 3594
+    comments: 497
+    blanks: 481
+    files: 12
+  Python:
+    code: 1312
+    comments: 82
+    blanks: 208
+    files: 12
+  Fish:
+    code: 1142
+    comments: 159
+    blanks: 231
+    files: 1
+  Html:
+    code: 578
+    comments: 3
+    blanks: 92
+    files: 9
+  JavaScript:
+    code: 446
+    comments: 20
+    blanks: 9
+    files: 1
+  Bitbake:
+    code: 267
+    comments: 388
+    blanks: 57
+    files: 4
+  Toml:
+    code: 127
+    comments: 18
+    blanks: 16
+    files: 4
+  Makefile:
+    code: 113
+    comments: 18
+    blanks: 40
+    files: 2
+  Markdown:
+    code: 0
+    comments: 3367
+    blanks: 1066
+    files: 30
+  Text:
+    code: 0
+    comments: 92
+    blanks: 36
+    files: 9
+total:
+  code: 191469
+  comments: 41839
+  blanks: 23655
+  files: 695
+---
+
+---
