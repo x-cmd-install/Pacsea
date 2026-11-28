@@ -7,7 +7,7 @@ about:
   latestVersion: "walkthroughs-1"
   latestRelease: "walkthroughs-1"
   latestPrerelease: "v0.8.2"
-  collectedAt: 2026-11-27T10:37:22Z
+  collectedAt: 2026-11-28T09:00:00Z
 timeline:
   created: 2025-09-25
   lastCommit: 2026-11-27
@@ -33,7 +33,7 @@ language:
 totalBytes: 6958165
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 4
     openPR: 0
@@ -41,7 +41,7 @@ recent:
     openIssue: 0
     commit: 8
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 5
     openPR: 1
@@ -49,7 +49,7 @@ recent:
     openIssue: 0
     commit: 8
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 5
     openPR: 1
@@ -57,7 +57,7 @@ recent:
     openIssue: 0
     commit: 8
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 8
     openPR: 1
@@ -65,7 +65,7 @@ recent:
     openIssue: 0
     commit: 25
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 12
     mergedPR: 52
     openPR: 1
@@ -73,7 +73,7 @@ recent:
     openIssue: 14
     commit: 540
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 25
     mergedPR: 95
     openPR: 1
@@ -89,7 +89,7 @@ total:
   commit: 1412
 ---
 path: /home/runner/.x-repo/github.com/Firstp1ck/Pacsea
-collectedAt: 2026-11-27T10:37:30Z
+collectedAt: 2026-11-28T09:00:07Z
 loc:
   Rust:
     code: 116648
@@ -169,4 +169,4 @@ total:
 ---
 
 ---
-{"id":460071971,"author":{"login":"Firstp1ck","id":159012644,"node_id":"U_kgDOCXpXJA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOP2zLrc4bbCQj","tag_name":"walkthroughs-1","target_commitish":"86ee3edfa3e4f6cd7d4e2603b5b390ec7b34ce5f","name":"Pacsea walkthroughs, edition 1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T01:55:18Z","updated_at":"2026-11-27T01:57:01Z","published_at":"2026-11-27T01:57:01Z","assets":[{"id":798523361,"node_id":"RA_kwDOP2zLrc4vmH_h","name":"pacsea-walkthroughs-1.zip","label":"","uploader":{"login":"Firstp1ck","id":159012644,"node_id":"U_kgDOCXpXJA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":89510867,"digest":"sha256:9656647ecf420f3fc4d9a02c620b9a5111d5c92292005f539059afc62519783c","download_count":2,"created_at":"2026-11-27T01:55:30Z","updated_at":"2026-11-27T01:55:35Z"}],"body":"Download **pacsea-walkthroughs-1.zip** for all eight captioned Pacsea walkthroughs. The numbered MP4s play independently.\n\n1. Find and review Arch packages\n2. Read Arch news and check service status\n3. Use Pacsea at the command line\n4. Review a package transaction\n5. Maintain an Arch installation\n6. Preview Pi Scan\n7. Set up tools and manage repositories\n8. Edit Pacsea’s configuration\n\nThe films include illustrative data. Pi Scan and the tabbed config editor are labeled feature previews.\n\n[Episode index, thumbnails and timestamped descriptions](https://github.com/Firstp1ck/Pacsea/blob/walkthroughs-1/dev/pacsea_demo_storyboard.md)\n"}
+{"id":460071971,"author":{"login":"Firstp1ck","id":159012644,"node_id":"U_kgDOCXpXJA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOP2zLrc4bbCQj","tag_name":"walkthroughs-1","target_commitish":"86ee3edfa3e4f6cd7d4e2603b5b390ec7b34ce5f","name":"Pacsea walkthroughs, edition 1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T01:55:18Z","updated_at":"2026-11-27T01:57:01Z","published_at":"2026-11-27T01:57:01Z","assets":[{"id":798523361,"node_id":"RA_kwDOP2zLrc4vmH_h","name":"pacsea-walkthroughs-1.zip","label":"","uploader":{"login":"Firstp1ck","id":159012644,"node_id":"U_kgDOCXpXJA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":89510867,"digest":"sha256:9656647ecf420f3fc4d9a02c620b9a5111d5c92292005f539059afc62519783c","download_count":3,"created_at":"2026-11-27T01:55:30Z","updated_at":"2026-11-27T01:55:35Z"}],"body":"Download **pacsea-walkthroughs-1.zip** for all eight captioned Pacsea walkthroughs. The numbered MP4s play independently.\n\n1. Find and review Arch packages\n2. Read Arch news and check service status\n3. Use Pacsea at the command line\n4. Review a package transaction\n5. Maintain an Arch installation\n6. Preview Pi Scan\n7. Set up tools and manage repositories\n8. Edit Pacsea’s configuration\n\nThe films include illustrative data. Pi Scan and the tabbed config editor are labeled feature previews.\n\n[Episode index, thumbnails and timestamped descriptions](https://github.com/Firstp1ck/Pacsea/blob/walkthroughs-1/dev/pacsea_demo_storyboard.md)\n"}
